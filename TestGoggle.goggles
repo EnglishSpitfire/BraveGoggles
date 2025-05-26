@@ -1,0 +1,7 @@
+! name: TestGoggle
+! description: A quick tour of Goggles
+! public: false
+! author: EnglishSpitfire
+
+$discard,site=theguardian.com
+$boost=4,site=dailymail.co.uk
