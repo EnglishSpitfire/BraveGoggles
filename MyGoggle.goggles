@@ -13,6 +13,8 @@ $discard,site=dailymail.co.uk
 
 ! Downrank specific sites:
 !$downrank=5,site=independent.co.uk
+$downrank=5,site=politico.eu
+
 
 ! Boost specific sites:
 $downrank=10,site=foxnews.com
