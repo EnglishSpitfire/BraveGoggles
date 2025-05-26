@@ -14,6 +14,6 @@
 $downrank=5,site=independent.co.uk
 
 ! Boost specific sites:
-$boost=5,site=dailymail.co.uk
+$boost=5,site=foxnews.com
 $boost=10,site=lego.com
 
