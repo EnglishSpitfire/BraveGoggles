@@ -3,14 +3,18 @@
 ! public: false
 ! author: EnglishSpitfire
 
+
+! Discrard everything:
 !$discard
 
+! Discard specific sites:
 !$discard,site=theguardian.com
 
+! Downrank specific sites:
 $downrank=5,site=independent.co.uk
 
+! Boost specific sites:
 $boost=5,site=dailymail.co.uk
-
 $boost=10,site=lego.com
 
 
