@@ -8,7 +8,7 @@
 !$discard
 
 ! Discard specific sites:
-!$discard,site=theguardian.com
+$discard,site=theguardian.com
 $discard,site=dailymail.co.uk
 
 ! Downrank specific sites:
