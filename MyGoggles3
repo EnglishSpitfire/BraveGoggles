@@ -1,0 +1,21 @@
+! name: My Goggle 3
+! description: Personal goggle for Brave browser
+! public: false
+! author: EnglishSpitfire
+
+
+! Discrard everything:
+!$discard
+
+! Discard specific sites:
+!$discard,site=theguardian.com
+$discard,site=dailymail.co.uk
+
+! Downrank specific sites:
+!$downrank=5,site=independent.co.uk
+$downrank=5,site=politico.eu
+
+
+! Boost specific sites:
+$downrank=10,site=foxnews.com
+$boost=10,site=lego.com
