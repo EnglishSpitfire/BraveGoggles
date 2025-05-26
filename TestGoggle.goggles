@@ -1,8 +1,14 @@
-! name: TestGoggle
-! description: A quick tour of Goggles
+! name: My Goggle
+! description: Personal goggle for Brave browser
 ! public: false
 ! author: EnglishSpitfire
 
-$discard
+!$discard
+
 !$discard,site=theguardian.com
-$boost=4,site=dailymail.co.uk
+
+$downrank=5,site=independent.co.uk
+
+$boost=5,site=dailymail.co.uk
+
+
