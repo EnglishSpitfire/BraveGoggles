@@ -5,7 +5,7 @@
 
 
 ! Discrard everything:
-$discard
+!$discard
 
 ! Discard specific sites:
 !$discard,site=theguardian.com
@@ -15,6 +15,6 @@ $discard,site=dailymail.co.uk
 !$downrank=5,site=independent.co.uk
 
 ! Boost specific sites:
-$boost=10,site=foxnews.com
+$downrank=10,site=foxnews.com
 $boost=10,site=lego.com
 
