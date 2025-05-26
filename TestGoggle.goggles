@@ -11,4 +11,6 @@ $downrank=5,site=independent.co.uk
 
 $boost=5,site=dailymail.co.uk
 
+$boost=10,site=lego.com
+
 
