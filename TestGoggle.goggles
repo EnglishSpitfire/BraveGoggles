@@ -3,5 +3,6 @@
 ! public: false
 ! author: EnglishSpitfire
 
-$discard,site=theguardian.com
+$discard
+!$discard,site=theguardian.com
 $boost=4,site=dailymail.co.uk
