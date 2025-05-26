@@ -1,0 +1,45 @@
+
+
+! name: My Goggle 5
+! description: Personal goggle for Brave browser
+! public: false
+! author: EnglishSpitfire
+
+
+! Discrard everything:
+!$discard
+
+! Discard specific sites:
+!UK
+$discard,site=bbc.co.uk
+$discard,site=lbc.co.uk
+$discard,site=theguardian.com
+$discard,site=inews.co.uk
+$discard,site=independent.co.uk
+$discard,site=huffingtonpost.co.uk
+! USA
+$discard,site=nytimes.com
+$discard,site=washingtonpost.com
+$discard,site=abcnews.go.com
+$discard,site=nbcnews.com
+$discard,site=msnbc.com
+$discard,site=edition.cnn.com
+$discard,site=politico.com
+$discard,site=politico.eu
+$discard,site=mediamatters.org
+!
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+$discard,site=washingtonpost.com
+!
+!Boost specific sites:
+$boost=3,site=foxnews.com
+$boost=10,site=nypost.com
+!
+! Downrank specific sites:
+!$downrank=1,site=independent.co.uk
+!$downrank=10,site=theguardian.com
