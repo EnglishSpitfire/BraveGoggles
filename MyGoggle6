@@ -10,19 +10,22 @@
 
 ! UK
 $discard,site=bbc.co.uk
+$discard,site=bbc.com
 $discard,site=lbc.co.uk
 $discard,site=theguardian.com
 $discard,site=inews.co.uk
 $discard,site=independent.co.uk
 $discard,site=huffingtonpost.co.uk
+$discard,site=news.sky.com/uk
 
 ! USA
+$discard,edition.cnn.com
+$discard,siteedition.cnn.com
 $discard,site=nytimes.com
 $discard,site=washingtonpost.com
 $discard,site=abcnews.go.com
 $discard,site=nbcnews.com
 $discard,site=msnbc.com
-$discard,site=edition.cnn.com
 $discard,site=politico.com
 $discard,site=politico.eu
 $discard,site=mediamatters.org
