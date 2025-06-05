@@ -27,6 +27,7 @@ $discard,site=msnbc.com
 $discard,site=politico.com
 $discard,site=politico.eu
 $discard,site=mediamatters.org
+$discard,site=theatlantic.com
 !
 !Boost specific sites:
 !$boost=3,site=foxnews.com
