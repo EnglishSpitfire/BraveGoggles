@@ -1,6 +1,6 @@
 
 
-! name: My Goggle 2
+! name: My Goggle 3
 ! description: Personal goggle for Brave browser
 ! public: false
 ! author: EnglishSpitfire
@@ -28,6 +28,7 @@ $discard,site=politico.com
 $discard,site=politico.eu
 $discard,site=mediamatters.org
 $discard,site=theatlantic.com
+$discard,site=pbs.org
 !
 !Boost specific sites:
 !boost=1 put Fox on page 4
