@@ -17,7 +17,7 @@ $discard,site=inews.co.uk
 $discard,site=independent.co.uk
 $discard,site=huffingtonpost.co.uk
 ! USA
-$discard,site=edition.cnn.com
+$discard,site=cnn.com
 $discard,site=edition.cnn.com
 $discard,site=nytimes.com
 $discard,site=washingtonpost.com
