@@ -16,8 +16,6 @@ $discard,site=theguardian.com
 $discard,site=inews.co.uk
 $discard,site=independent.co.uk
 $discard,site=huffingtonpost.co.uk
-$discard,site=news.sky.com
-
 ! USA
 $discard,edition.cnn.com
 $discard,siteedition.cnn.com
