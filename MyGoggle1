@@ -34,6 +34,7 @@ $discard,site=pbs.org
 $boost=2,site=foxnews.com
 $boost=2,site=telegraph.co.uk
 $boost=2,site=express.co.uk
+$boost=2,site=thesun.co.uk
 $boost=2,site=skynews.com.au
 $boost=3,site=nypost.com
 
